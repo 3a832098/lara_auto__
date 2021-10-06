@@ -8,7 +8,7 @@
     ],
     "require": {},
     "auoload": {
-        "psr-4"{
+        "psr-4":{
                 "Demo\\": "./src/Demo"
             }
     }
